@@ -101,10 +101,12 @@ contribution_snake
 <!-- Set up the GitHub Actions workflow from https://github.com/Platane/snk to generate the SVG files in the output branch. -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phamdung2301/phamdung2301/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phamdung2301/phamdung2301/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/phamdung2301/phamdung2301/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation of contribution squares">
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)
 </div>
 
 connect
