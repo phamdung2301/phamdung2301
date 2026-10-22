@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:3A0CA3,70:7209B7,100:F72585&height=220&section=header&text=phamdung2301&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Junior%20Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=58&descSize=16" width="100%" alt="Cyberpunk profile banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:3A0CA3,70:7209B7,100:F72585&height=220&section=header&text=dunedev&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Junior%20Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=58&descSize=16" width="100%" alt="Cyberpunk profile banner">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Building+backend+projects+step+by+step;Learning+REST+APIs+and+databases;Always+learning.+Always+building." alt="Typing SVG">
