@@ -1,162 +1,24 @@
-<div align="center">
+<picture><source media="(max-width: 640px)" srcset="assets/header-mobile.svg"/><img width="100%" src="assets/header.svg" alt="dunedev — Junior Backend Developer"/></picture>
 
-<!-- Click the banner to visit the portfolio -->
-<a href="https://portfolio-one-rust-99.vercel.app/">
-  <img src="assets/banner.svg" width="100%" alt="dunedev — cyberpunk profile banner — click to visit portfolio"/>
-</a>
+<a href="https://portfolio-one-rust-99.vercel.app/"><picture><source media="(max-width: 640px)" srcset="assets/typing-mobile.svg"/><img width="100%" src="assets/typing.svg" alt=""/></picture></a>
 
-<img src="assets/typing.svg" alt="Typing animation"/>
+<img width="100%" src="assets/divider.svg" alt=""/>
 
-<p>
-  <img src="https://img.shields.io/badge/FOCUS-BACKEND-00F5D4?style=for-the-badge&labelColor=0D0221" alt="Focus: Backend"/>
-  <img src="https://img.shields.io/badge/LANGUAGE-JAVA-F72585?style=for-the-badge&labelColor=0D0221" alt="Language: Java"/>
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-7209B7?style=for-the-badge&labelColor=0D0221" alt="Status: Learning"/>
-</p>
+## 💻 `> whoami`
 
-<p>
-  <a href="https://portfolio-one-rust-99.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-00F5D4?style=for-the-badge&logo=vercel&logoColor=0D0221&labelColor=0D0221" alt="Visit my portfolio website"/>
-  </a>
-</p>
+<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/idcard-mobile.svg"/><img width="100%" src="assets/idcard.svg" alt=""/></picture></div>
 
-</div>
+## ⚡ `> sudo install --tech-stack`
 
-<!-- ══════════ gradient divider ══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:F72585&height=2" width="100%" alt=""/>
+<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/skills-mobile.svg"/><img width="100%" src="assets/skills.svg" alt=""/></picture></div>
 
-<h2 align="center">💻 <code>whoami</code></h2>
+## 🚀 `> featured_builds --live`
 
-```java
-public class Developer {
-    private final String role = "Junior Backend Developer";
-    private final String primaryLanguage = "Java";
-    private final String currentFocus =
-        "Backend development, REST APIs, and databases";
+<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/builds-mobile.svg"/><img width="100%" src="assets/builds.svg" alt=""/></picture></div>
 
-    public String getMindset() {
-        return "Learn consistently. Build useful things. Improve every day.";
-    }
-}
-```
+## 📊 `> system.scan()`
 
-<div align="center">
-
-🎯 <b>Focus:</b> Backend development with Java and Spring Boot ·
-🧩 <b>Learning:</b> REST APIs, application structure, and relational databases ·
-🛠️ <b>Approach:</b> Understand the fundamentals, write readable code, learn by building ·
-🌱 <b>Goal:</b> Become a reliable backend developer, gradually expanding toward full-stack
-
-</div>
-
-<!-- ══════════ gradient divider ══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:F72585&height=2" width="100%" alt=""/>
-
-<h2 align="center">🌌 <code>currently</code></h2>
-
-<div align="center">
-
-🔭 Building <b><a href="https://github.com/phamdung2301/masterjp">Master JP</a></b> — Japanese learning platform (Minna no Nihongo N5–N4)<br/>
-🌱 Deepening Spring Boot, system design & Docker<br/>
-💡 Open to collaborating on backend / full-stack projects
-
-</div>
-
-<!-- ══════════ gradient divider ══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:F72585&height=2" width="100%" alt=""/>
-
-<h2 align="center">⚡ <code>tech_stack</code></h2>
-
-<div align="center">
-
-<b>Backend</b>
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" alt="Java, Spring Boot, Python"/>
-</p>
-
-<b>Databases & Tools</b>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git&theme=dark" alt="MySQL, PostgreSQL, MongoDB, Docker, Git"/>
-</p>
-
-<b>Frontend</b>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="HTML, CSS, JavaScript, React, Vite"/>
-</p>
-
-</div>
-
-<!-- ══════════ gradient divider ══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:F72585&height=2" width="100%" alt=""/>
-
-<h2 align="center">🗺️ <code>learning_path</code></h2>
-
-<div align="center">
-
-<code>Java</code> → <code>Spring Boot</code> → <code>REST APIs</code> → <code>PostgreSQL · MongoDB</code> → <code>Docker</code> → <code>React</code>
-
-</div>
-
-<!-- ══════════ gradient divider ══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:F72585&height=2" width="100%" alt=""/>
-
-<h2 align="center">🚀 <code>featured_projects</code></h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 Master JP</h3>
-      <p>Japanese learning platform following Minna no Nihongo (N5–N4): 2,600+ vocabulary, flashcards, quizzes, SM-2 spaced repetition and grammar lessons.</p>
-      <p><b>Tech:</b> Spring Boot · MongoDB · React 19 · Vite</p>
-      <a href="https://github.com/phamdung2301/masterjp">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛋️ Furniture Store</h3>
-      <p>Full-featured furniture e-commerce: 22 screens, MoMo payment, flash sales & discount codes, complete admin dashboard.</p>
-      <p><b>Tech:</b> Spring Boot · MongoDB · React 19 · Vite</p>
-      <a href="https://github.com/phamdung2301/furniture">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Insuren</h3>
-      <p>Insurance management platform: JWT + Google OAuth2 login, policy lifecycle, Excel rate import, reports and benchmarks.</p>
-      <p><b>Tech:</b> Spring Boot · MongoDB · React 19 · Vite</p>
-      <a href="https://github.com/phamdung2301/insuren">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Portfolio</h3>
-      <p>Personal portfolio website — projects, skills and contact in one place.</p>
-      <p><b>Tech:</b> Web</p>
-      <a href="https://github.com/phamdung2301/portfolio">View repository →</a>
-    </td>
-  </tr>
-</table>
-
-<!-- ══════════ gradient divider ══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:F72585&height=2" width="100%" alt=""/>
-
-<h2 align="center">💭 <code>philosophy</code></h2>
-
-<div align="center">
-  <i>"Learn consistently. Build useful things. Improve every day."</i>
-</div>
-
-<!-- ══════════ gradient divider ══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:F72585&height=2" width="100%" alt=""/>
-
-<h2 align="center">📊 <code>github_stats</code></h2>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=phamdung2301&show_icons=true&hide_border=true&bg_color=0D0221&title_color=F72585&text_color=E6E6FA&icon_color=00F5D4&ring_color=7209B7" alt="GitHub statistics"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=phamdung2301&hide_border=true&background=0D0221&ring=7209B7&fire=F72585&currStreakNum=00F5D4&sideNums=E6E6FA&currStreakLabel=00F5D4&sideLabels=E6E6FA&dates=8A8AA3" alt="GitHub contribution streak"/>
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamdung2301&layout=compact&hide_border=true&bg_color=0D0221&title_color=F72585&text_color=E6E6FA" alt="Top languages"/>
-</div>
-
-<!-- ══════════ gradient divider ══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:F72585&height=2" width="100%" alt=""/>
+<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/stats-mobile.svg"/><img width="100%" src="assets/stats.svg" alt=""/></picture></div>
 
 <h2 align="center">🐍 <code>contribution_snake</code></h2>
 
@@ -170,28 +32,8 @@ public class Developer {
   </picture>
 </div>
 
-<!-- ══════════ gradient divider ══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:F72585&height=2" width="100%" alt=""/>
+<img width="100%" src="assets/divider.svg" alt=""/>
 
-<h2 align="center">📬 <code>connect</code></h2>
+<div align="center"><a href="https://github.com/phamdung2301"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub"/></a><p><i>Thanks for stopping by. Have a great day! ✌️</i></p></div>
 
-<div align="center">
-  <a href="https://github.com/phamdung2301">
-    <img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub"/>
-  </a>
-
-  <!-- Add your public contact links here, e.g.:
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F5D4" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=F72585" alt="Email"/>
-  </a>
-  -->
-</div>
-
-<div align="center">
-  <p><i>Thanks for stopping by. Have a great day! ✌️</i></p>
-</div>
-
-<img src="assets/footer.svg" width="100%" alt=""/>
+<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/footer-mobile.svg"/><img width="100%" src="assets/footer.svg" alt=""/></picture></div>
