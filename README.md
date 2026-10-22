@@ -1,14 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:3A0CA3,70:7209B7,100:F72585&height=220&section=header&text=dunedev&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Junior%20Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=58&descSize=16" width="100%" alt="dunedev — cyberpunk profile banner"/>
+<!-- Click the banner to visit the portfolio -->
+<a href="https://portfolio-one-rust-99.vercel.app/">
+  <img src="assets/banner.svg" width="100%" alt="dunedev — cyberpunk profile banner — click to visit portfolio"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Building+backend+projects+step+by+step;Learning+REST+APIs+and+databases;Always+learning.+Always+building." alt="Typing animation"/>
+<img src="assets/typing.svg" alt="Typing animation"/>
 
 <p>
   <img src="https://img.shields.io/badge/FOCUS-BACKEND-00F5D4?style=for-the-badge&labelColor=0D0221" alt="Focus: Backend"/>
   <img src="https://img.shields.io/badge/LANGUAGE-JAVA-F72585?style=for-the-badge&labelColor=0D0221" alt="Language: Java"/>
   <img src="https://img.shields.io/badge/STATUS-LEARNING-7209B7?style=for-the-badge&labelColor=0D0221" alt="Status: Learning"/>
-  <img src="https://komarev.com/ghpvc/?username=phamdung2301&color=7209B7&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<p>
+  <a href="https://portfolio-one-rust-99.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-00F5D4?style=for-the-badge&logo=vercel&logoColor=0D0221&labelColor=0D0221" alt="Visit my portfolio website"/>
+  </a>
 </p>
 
 </div>
@@ -186,4 +194,4 @@ public class Developer {
   <p><i>Thanks for stopping by. Have a great day! ✌️</i></p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:3A0CA3,70:7209B7,100:F72585&height=180&section=footer" width="100%" alt=""/>
+<img src="assets/footer.svg" width="100%" alt=""/>
