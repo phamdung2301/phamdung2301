@@ -1,6 +1,51 @@
 [
-  {"slug":"masterjp","name":"Master JP","desc":"Japanese learning platform (Minna no Nihongo N5–N4) — 2,600+ vocab, flashcards, SM-2 spaced repetition, grammar.","tags":["Spring Boot","MongoDB","React"],"repo":"phamdung2301/masterjp"},
-  {"slug":"furniture","name":"Furniture Store","desc":"Full-featured furniture e-commerce — 22 screens, MoMo payment, flash sales, admin dashboard.","tags":["Spring Boot","MongoDB","React"],"repo":"phamdung2301/furniture"},
-  {"slug":"insuren","name":"Insuren","desc":"Insurance management platform — JWT + Google OAuth2, policy lifecycle, Excel import, reports.","tags":["Spring Boot","MongoDB","React"],"repo":"phamdung2301/insuren"},
-  {"slug":"portfolio","name":"Portfolio 3D","desc":"Interactive 3D portfolio — React Three Fiber scenes, scroll-driven storytelling.","tags":["React","Three.js","Framer Motion"],"repo":"phamdung2301/portfolio","live":"https://portfolio-one-rust-99.vercel.app/"}
+  {
+    "slug": "masterjp",
+    "name": "Master JP",
+    "desc": "Japanese learning platform (Minna no Nihongo N5–N4) — 2,600+ vocab, flashcards, SM-2 spaced repetition, grammar.",
+    "tags": [
+      "Spring Boot",
+      "MongoDB",
+      "React"
+    ],
+    "repo": "phamdung2301/masterjp",
+    "url": "https://masterjp-fe.onrender.com"
+  },
+  {
+    "slug": "furniture",
+    "name": "Furniture Store",
+    "desc": "Full-featured furniture e-commerce — 22 screens, MoMo payment, flash sales, admin dashboard.",
+    "tags": [
+      "Spring Boot",
+      "MongoDB",
+      "React"
+    ],
+    "repo": "phamdung2301/furniture",
+    "url": "https://furniture-lf7h.onrender.com"
+  },
+  {
+    "slug": "insuren",
+    "name": "Insuren",
+    "desc": "Insurance management platform — JWT + Google OAuth2, policy lifecycle, Excel import, reports.",
+    "tags": [
+      "Spring Boot",
+      "MongoDB",
+      "React"
+    ],
+    "repo": "phamdung2301/insuren",
+    "url": "https://insurance-ten-theta.vercel.app"
+  },
+  {
+    "slug": "portfolio",
+    "name": "Portfolio 3D",
+    "desc": "Interactive 3D portfolio — React Three Fiber scenes, scroll-driven storytelling.",
+    "tags": [
+      "React",
+      "Three.js",
+      "Framer Motion"
+    ],
+    "repo": "phamdung2301/portfolio",
+    "live": "https://portfolio-one-rust-99.vercel.app/",
+    "url": "https://portfolio-one-rust-99.vercel.app/"
+  }
 ]
