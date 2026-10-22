@@ -1,4 +1,4 @@
-<picture><source media="(max-width: 640px)" srcset="assets/header-mobile.svg"/><img width="100%" src="assets/header.svg" alt="dunedev — Junior Backend Developer"/></picture>
+<picture><source media="(max-width: 640px)" srcset="assets/3d/header-mobile.png"/><img width="100%" src="assets/3d/header.gif" alt="dunedev — Junior Backend Developer"/></picture>
 
 <a href="https://portfolio-one-rust-99.vercel.app/"><picture><source media="(max-width: 640px)" srcset="assets/typing-mobile.svg"/><img width="100%" src="assets/typing.svg" alt=""/></picture></a>
 
@@ -6,19 +6,19 @@
 
 ## 💻 `> whoami`
 
-<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/idcard-mobile.svg"/><img width="100%" src="assets/idcard.svg" alt=""/></picture></div>
+<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/3d/idcard-mobile.png"/><img width="100%" src="assets/3d/idcard.png" alt=""/></picture></div>
 
 ## ⚡ `> sudo install --tech-stack`
 
-<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/skills-mobile.svg"/><img width="100%" src="assets/skills.svg" alt=""/></picture></div>
+<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/3d/skills-mobile.png"/><img width="100%" src="assets/3d/skills.png" alt=""/></picture></div>
 
 ## 🚀 `> featured_builds --live`
 
-<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/builds-mobile.svg"/><img width="100%" src="assets/builds.svg" alt=""/></picture></div>
+<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/3d/builds-mobile.png"/><img width="100%" src="assets/3d/builds.png" alt=""/></picture></div>
 
 ## 📊 `> system.scan()`
 
-<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/stats-mobile.svg"/><img width="100%" src="assets/stats.svg" alt=""/></picture></div>
+<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/3d/stats-mobile.png"/><img width="100%" src="assets/3d/stats.png" alt=""/></picture></div>
 
 <h2 align="center">🐍 <code>contribution_snake</code></h2>
 
