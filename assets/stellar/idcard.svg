@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<defs>
+  <radialGradient id="bg" cx="50%" cy="40%" r="80%">
+    <stop offset="0" stop-color="#150a35"/><stop offset="0.55" stop-color="#0D0221"/><stop offset="1" stop-color="#05010F"/>
+  </radialGradient>
+  <radialGradient id="neb" cx="50%" cy="50%" r="50%">
+    <stop offset="0" stop-color="#7209B7" stop-opacity="0.35"/><stop offset="1" stop-color="#7209B7" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="runGrad2" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00F5D4" stop-opacity="0"/><stop offset="0.42" stop-color="#00F5D4" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#E6FFFB"/><stop offset="0.58" stop-color="#00F5D4" stop-opacity="0"/>
+    <stop offset="1" stop-color="#00F5D4" stop-opacity="0"/>
+    <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="5s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1c1040" stop-opacity="0.85"/><stop offset="1" stop-color="#0a0420" stop-opacity="0.92"/>
+  </linearGradient>
+  <style>
+    .mono{font-family:'JetBrains Mono','Cascadia Code',Consolas,monospace}
+  </style>
+</defs>
+<rect width="1200" height="430" fill="url(#bg)"/>
+<ellipse cx="250" cy="120" rx="380" ry="220" fill="url(#neb)"/>
+<ellipse cx="950" cy="330" rx="320" ry="180" fill="url(#neb)" opacity="0.6"/>
+<g fill="#fff">
+  <circle cx="120" cy="80" r="1.6" opacity="0.8"/><circle cx="1080" cy="60" r="1.3" opacity="0.6"/>
+  <circle cx="90" cy="340" r="1.8" opacity="0.7"/><circle cx="1120" cy="360" r="1.5" opacity="0.8"/>
+  <circle cx="600" cy="40" r="1.2" opacity="0.5"/><circle cx="420" cy="390" r="1.4" opacity="0.6"/>
+  <circle cx="760" cy="90" r="1.1" opacity="0.5"/><circle cx="200" cy="200" r="1.2" opacity="0.45"/>
+  <circle cx="1000" cy="200" r="1.7" opacity="0.7"/><circle cx="540" cy="220" r="1" opacity="0.4"/>
+</g>
+<g transform="translate(180,60) scale(0.9)" opacity="0.95">
+  <path d="M0,-9 C1.2,-2.4 2.4,-1.2 9,0 C2.4,1.2 1.2,2.4 0,9 C-1.2,2.4 -2.4,1.2 -9,0 C-2.4,-1.2 -1.2,-2.4 0,-9 Z" fill="#00F5D4">
+    <animate attributeName="opacity" values="0.1;1;0.1" dur="3s" repeatCount="indefinite"/></path>
+</g>
+<g transform="translate(1020,120) scale(1.1)" opacity="0.95">
+  <path d="M0,-9 C1.2,-2.4 2.4,-1.2 9,0 C2.4,1.2 1.2,2.4 0,9 C-1.2,2.4 -2.4,1.2 -9,0 C-2.4,-1.2 -1.2,-2.4 0,-9 Z" fill="#B8A9F5">
+    <animate attributeName="opacity" values="0.1;1;0.1" dur="3.6" begin="1.2s" repeatCount="indefinite"/></path>
+</g>
+<!-- glass panel -->
+<rect x="90" y="60" width="1020" height="310" rx="22" fill="url(#glass)" stroke="#8B5CF6" stroke-opacity="0.25" stroke-width="1.5"/>
+<!-- left: identity -->
+<text x="150" y="140" class="mono" font-size="15" fill="#00F5D4" letter-spacing="4">$ whoami</text>
+<text x="150" y="200" font-family="Orbitron,'Segoe UI',sans-serif" font-weight="800" font-size="52" fill="#FFFFFF" letter-spacing="3">dunedev</text>
+<text x="152" y="240" class="mono" font-size="14" fill="#B8A9F5" letter-spacing="3">FULL-STACK DEVELOPER</text>
+<text x="150" y="285" class="mono" font-size="13.5" fill="#8A8AA3" letter-spacing="1">Ho Chi Minh City, Vietnam · GMT+7</text>
+<g font-family="'JetBrains Mono',Consolas,monospace" font-size="12" letter-spacing="1">
+  <rect x="150" y="310" width="86" height="28" rx="8" fill="none" stroke="#00F5D4" stroke-opacity="0.4"/>
+  <text x="193" y="329" text-anchor="middle" fill="#00F5D4">OPEN</text>
+  <text x="248" y="329" fill="#8A8AA3">to interesting work</text>
+</g>
+<!-- divider -->
+<line x1="600" y1="100" x2="600" y2="330" stroke="#8B5CF6" stroke-opacity="0.25" stroke-width="1.5"/>
+<!-- right: focus -->
+<text x="660" y="140" class="mono" font-size="15" fill="#00F5D4" letter-spacing="4">$ focus --areas</text>
+<g font-family="'JetBrains Mono',Consolas,monospace" font-size="14" letter-spacing="0.5">
+  <text x="660" y="185" fill="#E6E6FA"><tspan fill="#00F5D4">▸</tspan> <tspan fill="#B8A9F5">backend</tspan> <tspan fill="#8A8AA3">— Java · Spring Boot · MongoDB</tspan></text>
+  <text x="660" y="222" fill="#E6E6FA"><tspan fill="#00F5D4">▸</tspan> <tspan fill="#B8A9F5">frontend</tspan> <tspan fill="#8A8AA3">— React · TypeScript · Next.js</tspan></text>
+  <text x="660" y="259" fill="#E6E6FA"><tspan fill="#00F5D4">▸</tspan> <tspan fill="#B8A9F5">3d &amp; motion</tspan> <tspan fill="#8A8AA3">— Three.js · R3F · GSAP</tspan></text>
+  <text x="660" y="296" fill="#E6E6FA"><tspan fill="#00F5D4">▸</tspan> <tspan fill="#B8A9F5">devops</tspan> <tspan fill="#8A8AA3">— Docker · Vercel · Render</tspan></text>
+  <text x="660" y="333" fill="#E6E6FA"><tspan fill="#00F5D4">▸</tspan> <tspan fill="#B8A9F5">motto</tspan> <tspan fill="#8A8AA3">— ship it beautiful</tspan></text>
+</g>
+<!-- running border -->
+<rect x="14" y="14" width="1172" height="402" rx="20" fill="none" stroke="#00F5D4" stroke-opacity="0.13" stroke-width="2"/>
+<rect x="14" y="14" width="1172" height="402" rx="20" fill="none" stroke="url(#runGrad2)" stroke-width="3"/>
+</svg>
