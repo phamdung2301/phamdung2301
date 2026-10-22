@@ -4,10 +4,6 @@
 
 <img width="100%" src="assets/divider.svg" alt=""/>
 
-## ✦ `> whoami`
-
-<div align="center"><img width="100%" src="assets/stellar/idcard.svg" alt="about dunedev"/></div>
-
 ## ✦ `> tech --constellation`
 
 <div align="center"><picture><source media="(max-width: 640px)" srcset="assets/stellar/skills-mobile.svg"/><img width="100%" src="assets/stellar/skills.svg" alt="tech stack"/></picture></div>
