@@ -1,24 +1,27 @@
-<picture><source media="(max-width: 640px)" srcset="assets/3d/header-mobile.png"/><img width="100%" src="assets/3d/header.gif" alt="dunedev — Junior Backend Developer"/></picture>
+<picture><source media="(max-width: 640px)" srcset="assets/stellar/header-mobile.svg"/><img width="100%" src="assets/stellar/header.svg" alt="dunedev — Full-Stack Developer"/></picture>
 
 <a href="https://portfolio-one-rust-99.vercel.app/"><picture><source media="(max-width: 640px)" srcset="assets/typing-mobile.svg"/><img width="100%" src="assets/typing.svg" alt=""/></picture></a>
 
 <img width="100%" src="assets/divider.svg" alt=""/>
 
-## 💻 `> whoami`
+## ✦ `> whoami`
 
-<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/3d/idcard-mobile.png"/><img width="100%" src="assets/3d/idcard.png" alt=""/></picture></div>
+<div align="center"><img width="100%" src="assets/stellar/idcard.svg" alt="about dunedev"/></div>
 
-## ⚡ `> sudo install --tech-stack`
+## ✦ `> tech --constellation`
 
-<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/3d/skills-mobile.png"/><img width="100%" src="assets/3d/skills.png" alt=""/></picture></div>
+<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/stellar/skills-mobile.svg"/><img width="100%" src="assets/stellar/skills.svg" alt="tech stack"/></picture></div>
 
-## 🚀 `> featured_builds --live`
+## ✦ `> builds --live`
 
-<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/3d/builds-mobile.png"/><img width="100%" src="assets/3d/builds.png" alt=""/></picture></div>
+<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/stellar/builds-mobile.svg"/><img width="100%" src="assets/stellar/builds.svg" alt="featured builds"/></picture></div>
 
-## 📊 `> system.scan()`
+## ✦ `> github --stats`
 
-<div align="center"><picture><source media="(max-width: 640px)" srcset="assets/3d/stats-mobile.png"/><img width="100%" src="assets/3d/stats.png" alt=""/></picture></div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phamdung2301&show_icons=true&title_color=00F5D4&text_color=E6E6FA&icon_color=8B5CF6&border_color=8B5CF655&bg_color=0D0221" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamdung2301&layout=compact&title_color=00F5D4&text_color=E6E6FA&border_color=8B5CF655&bg_color=0D0221" alt="top languages"/>
+</div>
 
 <h2 align="center">🐍 <code>contribution_snake</code></h2>
 
