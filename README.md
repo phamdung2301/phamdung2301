@@ -150,15 +150,6 @@ public class Developer {
 <!-- ══════════ gradient divider ══════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:F72585&height=2" width="100%" alt=""/>
 
-<h2 align="center">📈 <code>contribution_graph</code></h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phamdung2301&bg_color=0D0221&color=E6E6FA&line=00F5D4&point=F72585&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-</div>
-
-<!-- ══════════ gradient divider ══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:F72585&height=2" width="100%" alt=""/>
-
 <h2 align="center">🐍 <code>contribution_snake</code></h2>
 
 <!-- Generate the SVGs with the Platane/snk workflow (https://github.com/Platane/snk)
