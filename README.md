@@ -1,7 +1,5 @@
 <picture><source media="(max-width: 640px)" srcset="assets/stellar/header-mobile.svg"/><img width="100%" src="assets/stellar/header.svg" alt="dunedev — Full-Stack Developer"/></picture>
 
-<a href="https://portfolio-one-rust-99.vercel.app/"><picture><source media="(max-width: 640px)" srcset="assets/typing-mobile.svg"/><img width="100%" src="assets/typing.svg" alt=""/></picture></a>
-
 <img width="100%" src="assets/divider.svg" alt=""/>
 
 ## ✦ `> tech --constellation`
