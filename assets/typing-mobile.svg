@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="260" viewBox="0 0 640 260" role="img" aria-label="Terminal: whoami — dunedev">
+<defs>
+<defs>
+<filter id="glowMint" x="-60%" y="-60%" width="220%" height="220%">
+<feGaussianBlur stdDeviation="4" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="glowPink" x="-60%" y="-60%" width="220%" height="220%">
+<feGaussianBlur stdDeviation="4" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="glowViolet" x="-60%" y="-60%" width="220%" height="220%">
+<feGaussianBlur stdDeviation="6" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+<rect width="4" height="1" fill="rgba(255,255,255,0.045)"/>
+</pattern>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+<path d="M28 0H0V28" fill="none" stroke="rgba(0,245,212,0.22)" stroke-width="1"/>
+</pattern>
+</defs>
+<style>
+.ty-line{opacity:0;animation:ty-in .55s cubic-bezier(.2,.8,.2,1) forwards;animation-delay:var(--d,0s)}
+@keyframes ty-in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.ty-cursor{animation:ty-blink 1.1s steps(1) infinite}
+@keyframes ty-blink{50%{opacity:0}}
+.ty-win{animation:ty-win 1s cubic-bezier(.2,.8,.2,1) both}
+@keyframes ty-win{from{opacity:0;transform:translateY(18px) scale(.985)}to{opacity:1;transform:translateY(0) scale(1)}}
+.ty-glowpulse{animation:ty-glow 7s ease-in-out infinite alternate}
+@keyframes ty-glow{from{opacity:.5}to{opacity:.9}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.ty-line{opacity:1}}
+</style>
+<linearGradient id="ty-sheen" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#FFFFFF" stop-opacity=".07"/><stop offset=".35" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="ty-winbg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#150838" stop-opacity=".92"/><stop offset="1" stop-color="#0D0221" stop-opacity=".94"/>
+</linearGradient>
+<radialGradient id="ty-ambient" cx=".5" cy=".5" r=".5">
+  <stop offset="0" stop-color="#7209B7" stop-opacity=".4"/><stop offset="1" stop-color="#7209B7" stop-opacity="0"/>
+</radialGradient>
+<filter id="ty-glow" x="-40%" y="-40%" width="180%" height="180%">
+  <feGaussianBlur in="SourceAlpha" stdDeviation="8" result="b"/>
+  <feFlood flood-color="#00F5D4" flood-opacity=".75"/>
+  <feComposite in2="b" operator="in" result="g"/>
+  <feMerge><feMergeNode in="g"/><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="ty-blur" x="-40%" y="-40%" width="180%" height="180%">
+  <feGaussianBlur stdDeviation="26"/>
+</filter>
+</defs>
+<rect width="640" height="260" fill="#0D0221"/>
+<g class="ty-win">
+  <rect x="40" y="35" width="560" height="190" rx="12" fill="url(#ty-winbg)" stroke="#3A0CA3" stroke-opacity=".8" stroke-width="1.5"/>
+  <rect x="40" y="35" width="560" height="190" rx="12" fill="url(#ty-sheen)"/>
+  <line x1="52" y1="77" x2="588" y2="77" stroke="#3A0CA3" stroke-opacity=".6" stroke-width="1"/>
+  <circle cx="70" cy="56" r="6.5" fill="#F72585" opacity=".9"/>
+  <circle cx="92" cy="56" r="6.5" fill="#7209B7" opacity=".9"/>
+  <circle cx="114" cy="56" r="6.5" fill="#00F5D4" opacity=".9"/>
+  <text x="320" y="62" text-anchor="middle" font-family="ui-monospace,'Cascadia Code','Fira Code',Menlo,Consolas,monospace" font-size="14" fill="#8A8AA3">dunedev@github:~</text>
+  <text class="ty-line" x="72" y="100" font-family="ui-monospace,'Cascadia Code','Fira Code',Menlo,Consolas,monospace" font-size="18" style="--d:0.45s"><tspan fill="#F72585" font-weight="700">$</tspan><tspan fill="#00F5D4"> whoami</tspan></text><text class="ty-line" x="72" y="130" font-family="ui-monospace,'Cascadia Code','Fira Code',Menlo,Consolas,monospace" font-size="18" style="--d:1.35s"><tspan fill="#F72585" font-weight="700">dunedev</tspan></text><text class="ty-line" x="72" y="160" font-family="ui-monospace,'Cascadia Code','Fira Code',Menlo,Consolas,monospace" font-size="18" style="--d:2.1s"><tspan fill="#E6E6FA">Junior Backend Developer</tspan></text><rect class="ty-cursor" x="340" y="146" width="10" height="18" fill="#00F5D4"/>
+</g>
+</svg>
