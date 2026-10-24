@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 300" fill="none">
+  <defs>
+    <clipPath id="cardAu"><rect width="590" height="300" rx="14"/></clipPath>
+    <linearGradient id="goldBody" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E8C96A"/>
+      <stop offset="1" stop-color="#9A7B24"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#cardAu)">
+    <rect width="590" height="300" fill="#0B0A09"/>
+    <rect width="590" height="34" fill="#12100B"/>
+    <circle cx="22" cy="17" r="5" fill="#3A3223"/>
+    <circle cx="38" cy="17" r="5" fill="#3A3223"/>
+    <circle cx="54" cy="17" r="5" fill="#3A3223"/>
+    <text x="70" y="21" font-family="ui-monospace,Consolas,monospace" font-size="10.5" fill="#8A7A45">github.com/phamdung2301/aurum_motors</text>
+
+    <rect y="34" width="590" height="212" fill="#0E0C08"/>
+    <text x="40" y="92" font-family="ui-monospace,Consolas,monospace" font-size="28" font-weight="700" fill="#D4AF37">AURUM</text>
+    <text x="40" y="112" font-family="ui-monospace,Consolas,monospace" font-size="10" letter-spacing="3" fill="#8A7A45">GT SHOWROOM — 0–100 KM/H IN 3.1S</text>
+
+    <rect x="30" y="234" width="530" height="2" fill="#2A2118"/>
+
+    <!-- vệt sáng quét -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="-260 0;640 0" dur="4.5s" repeatCount="indefinite"/>
+      <polygon points="250,120 280,120 230,238 200,238" fill="#FFE9A8" opacity="0.12"/>
+    </g>
+
+    <!-- thân xe -->
+    <path d="M110 220 L110 210 C140 186 200 174 265 172 C330 170 390 180 445 196 C480 205 508 209 516 214 L516 220 Z" fill="url(#goldBody)"/>
+    <path d="M252 178 C290 162 342 164 374 180 L360 188 L262 188 Z" fill="#14110B"/>
+
+    <!-- bánh xe -->
+    <circle cx="185" cy="220" r="20" fill="#0B0A09" stroke="#D4AF37" stroke-width="3"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 185 220" to="360 185 220" dur="1.8s" repeatCount="indefinite"/>
+      <line x1="185" y1="204" x2="185" y2="236" stroke="#D4AF37" stroke-width="2"/>
+      <line x1="169" y1="220" x2="201" y2="220" stroke="#D4AF37" stroke-width="2"/>
+    </g>
+    <circle cx="430" cy="220" r="20" fill="#0B0A09" stroke="#D4AF37" stroke-width="3"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 430 220" to="360 430 220" dur="1.8s" repeatCount="indefinite"/>
+      <line x1="430" y1="204" x2="430" y2="236" stroke="#D4AF37" stroke-width="2"/>
+      <line x1="414" y1="220" x2="446" y2="220" stroke="#D4AF37" stroke-width="2"/>
+    </g>
+
+    <text x="470" y="92" text-anchor="end" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#8A7A45">tunnel intro · explode view</text>
+
+    <rect y="246" width="590" height="54" fill="#0D1117"/>
+    <text x="30" y="272" font-family="ui-monospace,Consolas,monospace" font-size="15" font-weight="700" fill="#00F5D4">aurum_motors</text>
+    <text x="30" y="290" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#8B949E">React · TypeScript · Three.js — xe GT lắp ráp từ ~60 chi tiết</text>
+    <text x="560" y="278" text-anchor="end" font-family="ui-monospace,Consolas,monospace" font-size="13" fill="#E6E6FA">open ↗</text>
+  </g>
+  <rect width="589" height="299" x="0.5" y="0.5" rx="14" stroke="#2A2E37"/>
+</svg>

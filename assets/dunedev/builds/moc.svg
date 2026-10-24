@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 300" fill="none">
+  <defs>
+    <clipPath id="cardMoc"><rect width="590" height="300" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#cardMoc)">
+    <rect width="590" height="300" fill="#14100A"/>
+    <rect width="590" height="34" fill="#1A1410"/>
+    <circle cx="22" cy="17" r="5" fill="#3A2E1E"/>
+    <circle cx="38" cy="17" r="5" fill="#3A2E1E"/>
+    <circle cx="54" cy="17" r="5" fill="#3A2E1E"/>
+    <text x="70" y="21" font-family="ui-monospace,Consolas,monospace" font-size="10.5" fill="#8A744C">github.com/phamdung2301/moc_coffe-bakery</text>
+
+    <rect y="34" width="590" height="212" fill="#17120C"/>
+    <text x="40" y="92" font-family="ui-monospace,Consolas,monospace" font-size="30" font-weight="700" fill="#D9A05B">MỘC®</text>
+    <text x="40" y="112" font-family="ui-monospace,Consolas,monospace" font-size="10" letter-spacing="3" fill="#8A744C">COFFEE &amp; BAKERY — SÀI GÒN</text>
+
+    <!-- hơi nước -->
+    <path d="M331 126 C323 114 339 106 331 92" stroke="#D9A05B" stroke-width="2" fill="none" opacity="0.7">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -14" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0;0.7" dur="2.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M351 126 C343 112 359 104 351 88" stroke="#D9A05B" stroke-width="2" fill="none" opacity="0.5">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -16" dur="2.6s" begin="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0;0.7" dur="2.6s" begin="0.9s" repeatCount="indefinite"/>
+    </path>
+    <path d="M371 126 C363 116 379 106 371 94" stroke="#D9A05B" stroke-width="2" fill="none" opacity="0.6">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -13" dur="2.6s" begin="1.7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0;0.7" dur="2.6s" begin="1.7s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- tách espresso -->
+    <ellipse cx="345" cy="146" rx="40" ry="6" fill="#2B1D0F"/>
+    <rect x="303" y="146" width="84" height="58" rx="8" fill="#1C1610" stroke="#D9A05B" stroke-width="2.5"/>
+    <path d="M387 156 C410 156 410 190 387 190" stroke="#D9A05B" stroke-width="2.5" fill="none"/>
+    <ellipse cx="345" cy="210" rx="56" ry="7" fill="#1C1610" stroke="#D9A05B" stroke-width="1.5"/>
+
+    <!-- menu -->
+    <circle cx="46" cy="225" r="5" fill="#D9A05B" opacity="0.85"/>
+    <circle cx="64" cy="225" r="5" fill="#D9A05B" opacity="0.6"/>
+    <circle cx="82" cy="225" r="5" fill="#D9A05B" opacity="0.4"/>
+    <text x="96" y="229" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#8A744C">espresso · bánh su kem · cold brew</text>
+
+    <rect y="246" width="590" height="54" fill="#0D1117"/>
+    <text x="30" y="272" font-family="ui-monospace,Consolas,monospace" font-size="15" font-weight="700" fill="#00F5D4">moc_coffe-bakery</text>
+    <text x="30" y="290" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#8B949E">Single-file HTML · Three.js · GSAP — tách espresso 3D</text>
+    <text x="560" y="278" text-anchor="end" font-family="ui-monospace,Consolas,monospace" font-size="13" fill="#E6E6FA">open ↗</text>
+  </g>
+  <rect width="589" height="299" x="0.5" y="0.5" rx="14" stroke="#2A2E37"/>
+</svg>

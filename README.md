@@ -21,21 +21,22 @@ public class Developer {
 
 ## `>_ stack`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,docker,git,html,css,js,react,ts&theme=dark&perline=12" alt="Java, Spring, Python, MySQL, PostgreSQL, Docker, Git, HTML, CSS, JavaScript, React, TypeScript">
-</p>
+<div align="center">
+  <img src="assets/dunedev/solar-stack.svg" width="90%" alt="Hệ mặt trời công nghệ — 12 hành tinh quay quanh dunedev core"/>
+  <p><sub><b>Jv</b> java · <b>Sb</b> spring · <b>My</b> mysql · <b>Pg</b> postgres · <b>Dk</b> docker · <b>Gt</b> git · <b>Ht</b> html · <b>Cs</b> css · <b>Js</b> js · <b>Re</b> react · <b>Ts</b> ts · <b>Py</b> python</sub></p>
+</div>
 
 <img width="100%" src="assets/dunedev/divider.svg" alt=""/>
 
 ## `>_ builds`
 
 <p align="center">
-  <a href="https://github.com/phamdung2301/eyewear_art"><img src="https://github-readme-stats.vercel.app/api/pin/?username=phamdung2301&repo=eyewear_art&bg_color=0d1117&hide_border=true&title_color=00F5D4&text_color=E6E6FA&icon_color=8B5CF6" width="47%" alt="pin eyewear_art"></a>
-  <a href="https://github.com/phamdung2301/aurum_motors"><img src="https://github-readme-stats.vercel.app/api/pin/?username=phamdung2301&repo=aurum_motors&bg_color=0d1117&hide_border=true&title_color=00F5D4&text_color=E6E6FA&icon_color=8B5CF6" width="47%" alt="pin aurum_motors"></a>
+  <a href="https://github.com/phamdung2301/eyewear_art"><img src="assets/dunedev/builds/eyewear.svg" width="47%" alt="eyewear_art — LUNET®"></a>
+  <a href="https://github.com/phamdung2301/aurum_motors"><img src="assets/dunedev/builds/aurum.svg" width="47%" alt="aurum_motors — GT showroom"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/phamdung2301/erp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=phamdung2301&repo=erp&bg_color=0d1117&hide_border=true&title_color=00F5D4&text_color=E6E6FA&icon_color=8B5CF6" width="47%" alt="pin erp"></a>
-  <a href="https://github.com/phamdung2301/moc_coffe-bakery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=phamdung2301&repo=moc_coffe-bakery&bg_color=0d1117&hide_border=true&title_color=00F5D4&text_color=E6E6FA&icon_color=8B5CF6" width="47%" alt="pin moc_coffe-bakery"></a>
+  <a href="https://github.com/phamdung2301/erp"><img src="assets/dunedev/builds/erp.svg" width="47%" alt="erp — Java backend"></a>
+  <a href="https://github.com/phamdung2301/moc_coffe-bakery"><img src="assets/dunedev/builds/moc.svg" width="47%" alt="moc_coffe-bakery — MỘC®"></a>
 </p>
 
 <p align="center"><sub>more — <a href="https://github.com/phamdung2301/lumiere_beauty">lumiere_beauty</a> · <a href="https://github.com/phamdung2301/vahn-tattoo">vahn-tattoo</a> · <a href="https://github.com/phamdung2301/RMS">RMS</a> · <a href="https://github.com/phamdung2301/SWP">SWP</a> · <a href="https://github.com/phamdung2301?tab=repositories">browse all →</a></sub></p>
