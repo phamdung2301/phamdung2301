@@ -62,7 +62,6 @@ public class Developer {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phamdung2301/phamdung2301/output/dragon-light.svg"/>
     <img alt="contribution dragon — con rồng bay trên lịch đóng góp" src="https://raw.githubusercontent.com/phamdung2301/phamdung2301/output/dragon-dark.svg"/>
   </picture>
-  <p><sub>generator tự viết: <a href="https://github.com/phamdung2301/contribution-dragon">phamdung2301/contribution-dragon</a> — thay cho snake có sẵn</sub></p>
 </div>
 
 <img width="100%" src="assets/dunedev/divider.svg" alt=""/>
