@@ -1,0 +1,25 @@
+name: Profile 3D Contrib
+on:
+  schedule:
+    - cron: '0 3 1 * *'   # mùng 1 hàng tháng
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: phamdung2301
+      - name: Commit skyline
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          git commit -m "chore: update 3D contribution skyline" || echo "no changes"
+          git push
