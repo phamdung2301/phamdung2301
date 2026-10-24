@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" fill="none">
+  <defs>
+    <g id="cm">
+      <polygon points="0,-11 22,0 0,11 -22,0" fill="#00F5D4"/>
+      <polygon points="-22,0 0,11 0,31 -22,20" fill="#0C9F8A"/>
+      <polygon points="0,11 22,0 22,20 0,31" fill="#077263"/>
+    </g>
+    <g id="cv">
+      <polygon points="0,-11 22,0 0,11 -22,0" fill="#A78BFA"/>
+      <polygon points="-22,0 0,11 0,31 -22,20" fill="#7C3AED"/>
+      <polygon points="0,11 22,0 22,20 0,31" fill="#5B21B6"/>
+    </g>
+  </defs>
+
+  <circle cx="150" cy="40" r="1.6" fill="#30363D"/>
+  <circle cx="420" cy="66" r="1.2" fill="#30363D"/>
+  <circle cx="640" cy="34" r="1.4" fill="#30363D"/>
+  <circle cx="705" cy="120" r="1.1" fill="#21262D"/>
+  <circle cx="320" cy="268" r="1.3" fill="#21262D"/>
+  <circle cx="960" cy="52" r="1.2" fill="#30363D"/>
+
+  <text x="70" y="140" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Consolas,monospace" font-size="64" font-weight="700" fill="#E6E6FA" letter-spacing="2">dunedev</text>
+  <rect x="352" y="92" width="12" height="54" fill="#00F5D4"/>
+
+  <text x="70" y="192" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Consolas,monospace" font-size="20" fill="#00F5D4">// full-stack developer</text>
+  <text x="70" y="224" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Consolas,monospace" font-size="15" fill="#9BA3AF">java · spring boot · react · typescript · three.js</text>
+  <text x="70" y="252" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Consolas,monospace" font-size="13" fill="#6E7681">Đà Nẵng, Việt Nam — 16.05°N 108.22°E</text>
+
+  <line x1="742" y1="250" x2="1150" y2="250" stroke="#30363D" stroke-width="1"/>
+
+  <use href="#cm" x="790" y="219"/>
+  <use href="#cm" x="790" y="199"/>
+  <use href="#cm" x="840" y="219"/>
+  <use href="#cm" x="840" y="199"/>
+  <use href="#cm" x="840" y="179"/>
+  <use href="#cm" x="840" y="159"/>
+  <use href="#cm" x="890" y="219"/>
+  <use href="#cm" x="890" y="199"/>
+  <use href="#cm" x="890" y="179"/>
+  <use href="#cm" x="940" y="219"/>
+  <use href="#cm" x="940" y="199"/>
+  <use href="#cm" x="940" y="179"/>
+  <use href="#cm" x="940" y="159"/>
+  <use href="#cm" x="940" y="139"/>
+  <use href="#cv" x="940" y="119"/>
+  <use href="#cm" x="990" y="219"/>
+  <use href="#cm" x="990" y="199"/>
+  <use href="#cm" x="990" y="179"/>
+  <use href="#cm" x="1040" y="219"/>
+  <use href="#cm" x="1040" y="199"/>
+  <use href="#cm" x="1040" y="179"/>
+  <use href="#cm" x="1040" y="159"/>
+  <use href="#cm" x="1090" y="219"/>
+  <use href="#cm" x="1090" y="199"/>
+</svg>

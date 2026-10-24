@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 340" fill="none">
+  <defs>
+    <g id="cs">
+      <polygon points="0,-8 16,0 0,8 -16,0" fill="#00F5D4"/>
+      <polygon points="-16,0 0,8 0,22 -16,14" fill="#0C9F8A"/>
+      <polygon points="0,8 16,0 16,14 0,22" fill="#077263"/>
+    </g>
+    <g id="cv2">
+      <polygon points="0,-8 16,0 0,8 -16,0" fill="#A78BFA"/>
+      <polygon points="-16,0 0,8 0,22 -16,14" fill="#7C3AED"/>
+      <polygon points="0,8 16,0 16,14 0,22" fill="#5B21B6"/>
+    </g>
+  </defs>
+
+  <text x="320" y="140" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Consolas,monospace" font-size="52" font-weight="700" fill="#E6E6FA" letter-spacing="2">dunedev</text>
+  <text x="320" y="184" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Consolas,monospace" font-size="17" fill="#00F5D4">// full-stack developer</text>
+  <text x="320" y="214" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Consolas,monospace" font-size="13" fill="#9BA3AF">java · spring boot · react · three.js</text>
+  <text x="320" y="240" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Consolas,monospace" font-size="11" fill="#6E7681">Đà Nẵng, Việt Nam — 16.05°N 108.22°E</text>
+
+  <line x1="200" y1="310" x2="440" y2="310" stroke="#30363D" stroke-width="1"/>
+
+  <use href="#cs" x="240" y="288"/>
+  <use href="#cs" x="280" y="288"/>
+  <use href="#cs" x="280" y="274"/>
+  <use href="#cs" x="280" y="260"/>
+  <use href="#cs" x="320" y="288"/>
+  <use href="#cs" x="320" y="274"/>
+  <use href="#cs" x="360" y="288"/>
+  <use href="#cs" x="360" y="274"/>
+  <use href="#cs" x="360" y="260"/>
+  <use href="#cs" x="360" y="246"/>
+  <use href="#cv2" x="360" y="232"/>
+  <use href="#cs" x="400" y="288"/>
+  <use href="#cs" x="400" y="274"/>
+  <use href="#cs" x="440" y="288"/>
+</svg>
