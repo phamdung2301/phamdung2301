@@ -43,8 +43,6 @@ public class Developer {
   <a href="https://insurance-ten-theta.vercel.app"><img src="assets/dunedev/builds/insurance.svg" width="47%" alt="Insurance — InsurTech"></a>
 </p>
 
-<p align="center"><sub>more — <a href="https://github.com/phamdung2301/lumiere_beauty">lumiere_beauty</a> · <a href="https://github.com/phamdung2301/vahn-tattoo">vahn-tattoo</a> · <a href="https://github.com/phamdung2301/RMS">RMS</a> · <a href="https://github.com/phamdung2301/SWP">SWP</a> · <a href="https://github.com/phamdung2301?tab=repositories">browse all →</a></sub></p>
-
 <img width="100%" src="assets/dunedev/divider.svg" alt=""/>
 
 ## `>_ stats`
@@ -52,14 +50,6 @@ public class Developer {
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=phamdung2301&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=E6E6FA&icon_color=8B5CF6&ring_color=8B5CF6" alt="GitHub statistics">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamdung2301&layout=compact&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=E6E6FA" alt="Top languages">
-</div>
-
-<img width="100%" src="assets/dunedev/divider.svg" alt=""/>
-
-## `>_ contributions --3d`
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D skyline — mỗi cột là một ngày có code"/>
 </div>
 
 <img width="100%" src="assets/dunedev/divider.svg" alt=""/>
