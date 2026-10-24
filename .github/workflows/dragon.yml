@@ -13,11 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: phamdung2301/contribution-dragon@main
-        with:
-          user: phamdung2301
-          token: ${{ secrets.GITHUB_TOKEN }}
-          out-dark: dist/dragon-dark.svg
-          out-light: dist/dragon-light.svg
+        env:
+          DRAGON_USER: phamdung2301
+          DRAGON_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DRAGON_OUT_DARK: dist/dragon-dark.svg
+          DRAGON_OUT_LIGHT: dist/dragon-light.svg
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
