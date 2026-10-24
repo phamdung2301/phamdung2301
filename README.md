@@ -31,7 +31,7 @@ public class Developer {
 ## `>_ builds`
 
 <p align="center">
-  <a href="https://eyewear-art.vercel.app"><img src="assets/dunedev/builds/eyewear.svg" width="47%" alt="eyewear_art — LUNET®"></a>
+  <a href="https://eyewear-art-mu.vercel.app"><img src="assets/dunedev/builds/eyewear.svg" width="47%" alt="eyewear_art — LUNET®"></a>
   <a href="https://aurummotors.vercel.app"><img src="assets/dunedev/builds/aurum.svg" width="47%" alt="aurum_motors — GT showroom"></a>
 </p>
 <p align="center">
@@ -39,7 +39,7 @@ public class Developer {
   <a href="https://moccoffe-bakery.vercel.app"><img src="assets/dunedev/builds/moc.svg" width="47%" alt="moc_coffe-bakery — MỘC®"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/phamdung2301/vahn-tattoo"><img src="assets/dunedev/builds/vahn.svg" width="47%" alt="vahn-tattoo — VẦN®"></a>
+  <a href="https://vahn-tattoo.vercel.app"><img src="assets/dunedev/builds/vahn.svg" width="47%" alt="vahn-tattoo — VẦN®"></a>
   <a href="https://insurance-ten-theta.vercel.app"><img src="assets/dunedev/builds/insurance.svg" width="47%" alt="Insurance — InsurTech"></a>
 </p>
 
