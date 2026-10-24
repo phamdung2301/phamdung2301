@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 300" fill="none">
+  <defs>
+    <clipPath id="cardIns"><rect width="590" height="300" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#cardIns)">
+    <rect width="590" height="300" fill="#0D1117"/>
+    <rect width="590" height="34" fill="#10151C"/>
+    <circle cx="22" cy="17" r="5" fill="#21262D"/>
+    <circle cx="38" cy="17" r="5" fill="#21262D"/>
+    <circle cx="54" cy="17" r="5" fill="#21262D"/>
+    <text x="70" y="21" font-family="ui-monospace,Consolas,monospace" font-size="10.5" fill="#8B949E">github.com/phamdung2301/Insurance</text>
+
+    <rect y="34" width="590" height="212" fill="#0D1117"/>
+    <text x="40" y="86" font-family="ui-monospace,Consolas,monospace" font-size="24" font-weight="700" fill="#E6E6FA">InsurTech</text>
+    <text x="40" y="106" font-family="ui-monospace,Consolas,monospace" font-size="10" letter-spacing="2" fill="#00F5D4">POLICY MANAGEMENT SYSTEM — FULL-STACK</text>
+
+    <!-- vòng đời hợp đồng -->
+    <rect x="40" y="126" width="58" height="20" rx="10" fill="#21262D"/>
+    <text x="69" y="140" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="9" fill="#8B949E">DRAFT</text>
+    <text x="106" y="140" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#3A3F4A">→</text>
+    <rect x="118" y="126" width="64" height="20" rx="10" fill="#312A55"/>
+    <text x="150" y="140" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="9" fill="#A78BFA">QUOTED</text>
+    <text x="190" y="140" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#3A3F4A">→</text>
+    <rect x="202" y="126" width="60" height="20" rx="10" fill="#17324A"/>
+    <text x="232" y="140" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="9" fill="#5EA8E8">BOUND</text>
+    <text x="270" y="140" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#3A3F4A">→</text>
+    <rect x="282" y="126" width="62" height="20" rx="10" fill="#0E3B32" stroke="#00F5D4" stroke-width="1">
+      <animate attributeName="opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="313" y="140" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="9" fill="#00F5D4">ACTIVE</text>
+
+    <!-- coverage bars -->
+    <text x="40" y="172" font-family="ui-monospace,Consolas,monospace" font-size="9" fill="#8B949E">FIRE</text>
+    <rect x="80" y="164" width="130" height="6" rx="3" fill="#21262D"/>
+    <rect x="80" y="164" width="96" height="6" rx="3" fill="#00F5D4" opacity="0.8">
+      <animate attributeName="width" values="96;120;96" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="40" y="194" font-family="ui-monospace,Consolas,monospace" font-size="9" fill="#8B949E">WATER</text>
+    <rect x="80" y="186" width="130" height="6" rx="3" fill="#21262D"/>
+    <rect x="80" y="186" width="70" height="6" rx="3" fill="#8B5CF6" opacity="0.85">
+      <animate attributeName="width" values="70;100;70" dur="4.6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="40" y="216" font-family="ui-monospace,Consolas,monospace" font-size="9" fill="#8B949E">LIABILITY</text>
+    <rect x="80" y="208" width="130" height="6" rx="3" fill="#21262D"/>
+    <rect x="80" y="208" width="52" height="6" rx="3" fill="#E6E6FA" opacity="0.7">
+      <animate attributeName="width" values="52;84;52" dur="5.2s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- khiên bảo vệ -->
+    <path d="M470 120 L512 136 V172 C512 198 470 218 470 218 C470 218 428 198 428 172 V136 Z" fill="#161B22" stroke="#00F5D4" stroke-width="2.5"/>
+    <polyline points="452,168 466,182 490,150" stroke="#00F5D4" stroke-width="3.5" fill="none">
+      <animate attributeName="opacity" values="1;0.45;1" dur="2.4s" repeatCount="indefinite"/>
+    </polyline>
+    <text x="470" y="244" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="9" fill="#8B949E">claims · endorsements · versioning</text>
+
+    <rect y="246" width="590" height="54" fill="#10151C"/>
+    <text x="30" y="272" font-family="ui-monospace,Consolas,monospace" font-size="15" font-weight="700" fill="#00F5D4">Insurance</text>
+    <text x="30" y="290" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#8B949E">JavaScript · Full-stack — mua online → bind → claim</text>
+    <text x="560" y="278" text-anchor="end" font-family="ui-monospace,Consolas,monospace" font-size="13" fill="#E6E6FA">open ↗</text>
+  </g>
+  <rect width="589" height="299" x="0.5" y="0.5" rx="14" stroke="#2A2E37"/>
+</svg>

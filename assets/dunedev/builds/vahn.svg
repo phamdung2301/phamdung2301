@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 300" fill="none">
+  <defs>
+    <clipPath id="cardVn"><rect width="590" height="300" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#cardVn)">
+    <rect width="590" height="300" fill="#0B0A09"/>
+    <rect width="590" height="34" fill="#14110C"/>
+    <circle cx="22" cy="17" r="5" fill="#3A2E1E"/>
+    <circle cx="38" cy="17" r="5" fill="#3A2E1E"/>
+    <circle cx="54" cy="17" r="5" fill="#3A2E1E"/>
+    <text x="70" y="21" font-family="ui-monospace,Consolas,monospace" font-size="10.5" fill="#8A744C">github.com/phamdung2301/vahn-tattoo</text>
+
+    <rect y="34" width="590" height="212" fill="#0E0C09"/>
+    <text x="40" y="92" font-family="ui-monospace,Consolas,monospace" font-size="30" font-weight="700" fill="#EDE7DB">VẦN®</text>
+    <text x="40" y="112" font-family="ui-monospace,Consolas,monospace" font-size="10" letter-spacing="3" fill="#C93A2B">XƯỞNG XĂM &amp; BODY ART — HÀ NỘI</text>
+
+    <!-- mannequin body-map -->
+    <g stroke="#EDE7DB" fill="none" stroke-width="1.5" opacity="0.9">
+      <circle cx="330" cy="128" r="15"/>
+      <rect x="322" y="146" width="16" height="10" rx="3"/>
+      <path d="M306 162 Q330 154 354 162 L350 200 Q330 208 310 200 Z"/>
+      <rect x="272" y="166" width="17" height="44" rx="8"/>
+      <rect x="371" y="166" width="17" height="44" rx="8"/>
+      <rect x="308" y="206" width="19" height="52" rx="9"/>
+      <rect x="333" y="206" width="19" height="52" rx="9"/>
+    </g>
+    <!-- vùng ngực được chọn -->
+    <path d="M312 168 Q330 175 348 168 L346 192 Q330 198 314 192 Z" fill="#C93A2B">
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="2.6s" repeatCount="indefinite"/>
+    </path>
+
+    <text x="40" y="176" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#8A8574">chạm vùng da</text>
+    <text x="40" y="194" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#C93A2B">→ form tự điền</text>
+    <text x="40" y="228" font-family="ui-monospace,Consolas,monospace" font-size="10" letter-spacing="2" fill="#6E685C">BLACKWORK · DOTWORK · FINE LINE</text>
+
+    <rect y="246" width="590" height="54" fill="#0D1117"/>
+    <text x="30" y="272" font-family="ui-monospace,Consolas,monospace" font-size="15" font-weight="700" fill="#00F5D4">vahn-tattoo</text>
+    <text x="30" y="290" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#8B949E">Single-file HTML · raw WebGL ink shader — nền mực loang</text>
+    <text x="560" y="278" text-anchor="end" font-family="ui-monospace,Consolas,monospace" font-size="13" fill="#E6E6FA">open ↗</text>
+  </g>
+  <rect width="589" height="299" x="0.5" y="0.5" rx="14" stroke="#2A2E37"/>
+</svg>

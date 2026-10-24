@@ -31,12 +31,16 @@ public class Developer {
 ## `>_ builds`
 
 <p align="center">
-  <a href="https://github.com/phamdung2301/eyewear_art"><img src="assets/dunedev/builds/eyewear.svg" width="47%" alt="eyewear_art — LUNET®"></a>
-  <a href="https://github.com/phamdung2301/aurum_motors"><img src="assets/dunedev/builds/aurum.svg" width="47%" alt="aurum_motors — GT showroom"></a>
+  <a href="https://eyewear-art.vercel.app"><img src="assets/dunedev/builds/eyewear.svg" width="47%" alt="eyewear_art — LUNET®"></a>
+  <a href="https://aurummotors.vercel.app"><img src="assets/dunedev/builds/aurum.svg" width="47%" alt="aurum_motors — GT showroom"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/phamdung2301/erp"><img src="assets/dunedev/builds/erp.svg" width="47%" alt="erp — Java backend"></a>
-  <a href="https://github.com/phamdung2301/moc_coffe-bakery"><img src="assets/dunedev/builds/moc.svg" width="47%" alt="moc_coffe-bakery — MỘC®"></a>
+  <a href="https://lumiere-beauty-woad-nine.vercel.app"><img src="assets/dunedev/builds/lumiere.svg" width="47%" alt="lumiere_beauty — glass skin"></a>
+  <a href="https://moccoffe-bakery.vercel.app"><img src="assets/dunedev/builds/moc.svg" width="47%" alt="moc_coffe-bakery — MỘC®"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/phamdung2301/vahn-tattoo"><img src="assets/dunedev/builds/vahn.svg" width="47%" alt="vahn-tattoo — VẦN®"></a>
+  <a href="https://insurance-ten-theta.vercel.app"><img src="assets/dunedev/builds/insurance.svg" width="47%" alt="Insurance — InsurTech"></a>
 </p>
 
 <p align="center"><sub>more — <a href="https://github.com/phamdung2301/lumiere_beauty">lumiere_beauty</a> · <a href="https://github.com/phamdung2301/vahn-tattoo">vahn-tattoo</a> · <a href="https://github.com/phamdung2301/RMS">RMS</a> · <a href="https://github.com/phamdung2301/SWP">SWP</a> · <a href="https://github.com/phamdung2301?tab=repositories">browse all →</a></sub></p>
