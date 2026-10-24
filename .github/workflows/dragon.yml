@@ -1,0 +1,26 @@
+name: Contribution Dragon
+on:
+  schedule:
+    - cron: '23 2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: phamdung2301/contribution-dragon@main
+        with:
+          user: phamdung2301
+          token: ${{ secrets.GITHUB_TOKEN }}
+          out-dark: dist/dragon-dark.svg
+          out-light: dist/dragon-light.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

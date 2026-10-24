@@ -54,14 +54,15 @@ public class Developer {
 
 <img width="100%" src="assets/dunedev/divider.svg" alt=""/>
 
-## `>_ contribution --snake`
+## `>_ contribution --dragon`
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phamdung2301/phamdung2301/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phamdung2301/phamdung2301/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/phamdung2301/phamdung2301/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phamdung2301/phamdung2301/output/dragon-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phamdung2301/phamdung2301/output/dragon-light.svg"/>
+    <img alt="contribution dragon — con rồng bay trên lịch đóng góp" src="https://raw.githubusercontent.com/phamdung2301/phamdung2301/output/dragon-dark.svg"/>
   </picture>
+  <p><sub>generator tự viết: <a href="https://github.com/phamdung2301/contribution-dragon">phamdung2301/contribution-dragon</a> — thay cho snake có sẵn</sub></p>
 </div>
 
 <img width="100%" src="assets/dunedev/divider.svg" alt=""/>
